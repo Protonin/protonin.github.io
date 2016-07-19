@@ -4,6 +4,7 @@ html, body {
   flex-direction: column;
   font-weight: 300;
   line-height: 1.5;
+  text-align: center;
 }  
 
 body {
@@ -11,6 +12,19 @@ font-family: 'Lato', sans-serif;
   background-color: rgba(168,205,27,0.8);
   background-position: center top;
   background-size: cover;
-  margin: 0;
-  text-align:center;
+}
+body .name{
+  font-size:40px;
+  color: black;
+  float:center;
+  
+
+}
+body .btn.btn-resume{
+  border-radius:20px;
+  border:31px;
+  padding:5px 5px 5px 5px;
+  font-size:18px;
+  background-color:rgba(168,205,27,0.8);
+  float:right;
 }
