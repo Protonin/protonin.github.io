@@ -9,7 +9,7 @@ html, body {
 
 body {
 font-family: 'Lato', sans-serif;
-  background-color: rgba(168,205,27,0.8);
+  background-color: rgba(168,205,27,0.6);
   background-position: center top;
   background-size: cover;
 }
@@ -17,14 +17,11 @@ body .name{
   font-size:40px;
   color: black;
   float:center;
-  
-
 }
-body .btn.btn-resume{
-  border-radius:20px;
-  border:31px;
-  padding:5px 5px 5px 5px;
+body .navbar.navbar-default{
+    background-color: rgba(168,205,27,0.7);li
+}
+body .nav.navbar-nav.navbar-right{
   font-size:18px;
-  background-color:rgba(168,205,27,0.8);
-  float:right;
-}
+  padding: 5px 5px 5px 5px
+}}
